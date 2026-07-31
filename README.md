@@ -30,4 +30,4 @@ Thanks to the integration with Mod Menu and Cloth Config, you can easily customi
 **it must be installed on both the Client and the Server** to work in multiplayer environments.
 
 # Showcases
-Will be added later...
+[https://youtu.be/MQVkX9BbeEg](https://youtu.be/MQVkX9BbeEg)
