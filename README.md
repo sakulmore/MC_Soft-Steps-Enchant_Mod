@@ -22,7 +22,8 @@ You can obtain the Soft Steps enchantment in four ways:
 Thanks to the integration with Mod Menu and Cloth Config, you can easily customize the mod's behavior to fit your playstyle. The following options are available:
 
 - "Can be obtained in Enchant Table?" (Yes / No)
-- "Can be obtained in loot chests?" (Yes / No)  
+- "Can be obtained in loot chests?" (Yes / No)
+
 ⚠️ **Important Note:** If you modify the `Can be obtained in loot chests?` setting during an ongoing playthrough, please keep in mind that the changes will only apply to newly generated (unexplored) chunks. Chests in already loaded Ancient Cities will not be affected by the configuration change.
 
 # Multiplayer
