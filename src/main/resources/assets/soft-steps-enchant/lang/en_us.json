@@ -1,0 +1,9 @@
+{
+  "enchantment.soft-steps-enchant.soft_steps": "Soft Steps",
+  "config.soft-steps-enchant.title": "Soft Steps Config",
+  "config.soft-steps-enchant.category.general": "General",
+  "config.soft-steps-enchant.option.obtainInLootChests": "Can be obtained in loot chests?",
+  "config.soft-steps-enchant.tooltip.obtainInLootChests": "Yes: Spawns in Ancient City loot chests.\nNo: Disables spawning in loot chests.",
+  "config.soft-steps-enchant.option.obtainInEnchantingTable": "Can be obtained in Enchanting Table?",
+  "config.soft-steps-enchant.tooltip.obtainInEnchantingTable": "Yes: Obtainable via Enchanting Table.\nNo: Disabled in Enchanting Table."
+}

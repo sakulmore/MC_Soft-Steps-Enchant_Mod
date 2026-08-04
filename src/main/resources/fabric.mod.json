@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "soft-steps-enchant",
+	"version": "${version}",
+	"name": "Soft Steps Enchant",
+	"description": "A new enchant that lets you explore Ancient Cities unnoticed!",
+	"authors": [
+		"sakulmore"
+	],
+	"icon": "assets/soft-steps-enchant/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.softstepsenchant.SoftStepsEnchant"
+		],
+		"client": [
+			"com.softstepsenchant.client.SoftStepsEnchantClient"
+		],
+		"modmenu": [
+			"com.softstepsenchant.client.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"soft-steps-enchant.mixins.json",
+		{
+			"config": "soft-steps-enchant.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": ">=26.1 <=26.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config": ">=26.1.0 <=26.2.155"
+	}
+}
